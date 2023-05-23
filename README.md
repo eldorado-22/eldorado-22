@@ -20,18 +20,6 @@ I am a beginner Front End developer👨🏻‍💻. My journey began in 2022, wh
 * 🧠  I'm learning I will study all Framework and library🗽.<br/>
 </h3>
 
-<h2> My Social Networking <br/>
-  Instagram: <a href="https://www.instagram.com/zhumashevv_996/" target="_blank">@zhumashevv_996</a> <br/>
-  Linkedin: <a href="https://www.linkedin.com/in/eldorado-jumashevv-51a792259/" target="_blank">@eldorado-jumashevv</a> <br/>
-  Twitter: <a href="https://twitter.com/jumashevv996" target="_blank">@jumashevv996</a> <br/>
-  Facebook: <a href="https://www.facebook.com/eldoradojumashevv/" target="_blank">@eldoradojumashevv</a> <br/> 
-</h2>
-<hr/>
-<a href="https://www.github.com/eldorado-22" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/eldorado-22?logo=github&style=for-the-badge&color=ef4444&labelColor=312e81" /></a><a href="https://www.twitter.com/home" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/home?logo=twitter&style=for-the-badge&color=ef4444&labelColor=312e81"
-/></a>
-
 ### Skills
 
 
@@ -40,10 +28,22 @@ src="https://img.shields.io/twitter/follow/home?logo=twitter&style=for-the-badge
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> 
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a> <br/>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+  <a href="https://www.typescript.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="36" height="36" alt="TypeScript"/></a>
+   <a href="https://www.tailwind.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/768px-Tailwind_CSS_Logo.svg.png" width="36" height="36" alt="Tailwind"/></a>
+    <a href="https://www.redux.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="36" height="36" alt="Redux"/></a>
+   <a href="https://www.vercel.com/" target="_blank" rel="noreferrer">
+    <img src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg/revision/latest?cb=20221026155821" width="36" height="36" alt="Vercel"/></a>
+   <a href="https://www.vuejs.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" width="36" height="36" alt="Vue"/></a>
+  
+ 
 </p>
 
 
