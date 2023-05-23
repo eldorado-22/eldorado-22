@@ -10,13 +10,23 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a beginner Front End developer👨🏻‍💻. My journey began in 2022, when I was 16 years old and went to school🏫. I enjoy with my job.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🔭 I study web development at MOTION WEB IT Academy courses. 👯 I will find my team and open my company. ⚡I will study all programming languages 👦🏻My hobby is music and sport. 📞How to contact me:
+<h4>
+  🔭 I study web development at MOTION WEB IT Academy courses. 👯 I will find my team and open my company. ⚡I will study all programming languages 👦🏻My hobby is music and sport. 📞How to contact me: <br/>  <a href="tel:+996708229173">My Contact</a> <br/>
+</h4>
 
-* 🌍  I'm based in Kyrgyzstan, Bishkek City
-* 🖥️  See my portfolio at [Eldar Jumashev](http://jumashevv992@gmail.com)
-* ✉️  You can contact me at [jumashevv992@gmail.com](mailto:jumashevv992@gmail.com)
-* 🧠  I'm learning I will study all Framework and library🗽.
+<h3> * 🌍  I'm based in Kyrgyzstan, Bishkek City <br/>
+* 🖥️  See my portfolio at [Eldar Jumashev](http://jumashevv992@gmail.com) <br/>
+* ✉️  You can contact me at [jumashevv992@gmail.com](mailto:jumashevv992@gmail.com) <br/>
+* 🧠  I'm learning I will study all Framework and library🗽.<br/>
+</h3>
 
+<h2> My Social Networking <br/>
+  Instagram: <a href="https://www.instagram.com/zhumashevv_996/" target="_blank">@zhumashevv_996</a> <br/>
+  Linkedin: <a href="https://www.linkedin.com/in/eldorado-jumashevv-51a792259/" target="_blank">@eldorado-jumashevv</a> <br/>
+  Twitter: <a href="https://twitter.com/jumashevv996" target="_blank">@jumashevv996</a> <br/>
+  Facebook: <a href="https://www.facebook.com/eldoradojumashevv/" target="_blank">@eldoradojumashevv</a> <br/> 
+</h2>
+<hr/>
 <a href="https://www.github.com/eldorado-22" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/eldorado-22?logo=github&style=for-the-badge&color=ef4444&labelColor=312e81" /></a><a href="https://www.twitter.com/home" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/home?logo=twitter&style=for-the-badge&color=ef4444&labelColor=312e81"
