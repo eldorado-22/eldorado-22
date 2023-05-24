@@ -55,7 +55,7 @@ I am a beginner Front End developer👨🏻‍💻. My journey began in 2022, wh
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/eldorado-22"><img src="https://github-readme-stats.vercel.app/api?username=eldorado-22&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=facc15&icon_color=ef4444&bg_color=312e81&hide_border=true&show_icons=true" alt="eldorado-22's GitHub stats" /></a>
+<a href="http://www.github.com/eldorado-22"><img src="https://github-readme-stats.vercel.app/api?username=eldorado-22&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=facc15&icon_color=ef4444&bg_color=312e81&hide_border=true&show_icons=true" alt="eldorado-22's GitHub stats"/></a>
 
 <a href="http://www.github.com/eldorado-22"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eldorado-22&stroke=facc15&background=312e81&ring=22c55e&fire=22c55e&currStreakNum=facc15&currStreakLabel=22c55e&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
