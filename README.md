@@ -10,9 +10,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a beginner Front End developer👨🏻‍💻. My journey began in 2022, when I was 16 years old and went to school🏫. I enjoy with my job.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h4>
-  🔭 I study web development in MOTION WEB IT Academy. 👯 I will find my team and open my company. ⚡I will study all programming languages 👦🏻My hobby is music and sport. 📞How to contact me: <br/>  <a href="tel:+996708229173">My Contact</a> <br/>
-</h4>
+<h2>
+  🔭 I study web development in <span color="red";>Motion WEB IT Academy</span>  . 👯 I will find my team and open my company. ⚡I will study all programming languages 👦🏻My hobby is music and sport. 📞How to contact me: <br/>  <a href="tel:+996708229173">My Contact</a> <br/>
+</h2>
 
 <h3> * 🌍  I'm based in Kyrgyzstan, Bishkek City <br/>
 * 🖥️  See my portfolio at [Eldar Jumashev](http://jumashevv992@gmail.com) <br/>
@@ -42,7 +42,6 @@ I am a beginner Front End developer👨🏻‍💻. My journey began in 2022, wh
     <img src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg/revision/latest?cb=20221026155821" width="36" height="36" alt="Vercel"/></a>
    <a href="https://www.vuejs.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" width="36" height="36" alt="Vue"/></a>
-  
  
 </p>
 
