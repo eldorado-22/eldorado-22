@@ -11,7 +11,7 @@ I am a beginner Front End developer👨🏻‍💻. My journey began in 2022, wh
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h4>
-  🔭 I study web development at MOTION WEB IT Academy courses. 👯 I will find my team and open my company. ⚡I will study all programming languages 👦🏻My hobby is music and sport. 📞How to contact me: <br/>  <a href="tel:+996708229173">My Contact</a> <br/>
+  🔭 I study web development in MOTION WEB IT Academy. 👯 I will find my team and open my company. ⚡I will study all programming languages 👦🏻My hobby is music and sport. 📞How to contact me: <br/>  <a href="tel:+996708229173">My Contact</a> <br/>
 </h4>
 
 <h3> * 🌍  I'm based in Kyrgyzstan, Bishkek City <br/>
