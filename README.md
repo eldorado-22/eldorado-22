@@ -4,9 +4,8 @@
   </a>
 </p>
 
-<h1 align="left">Привет, меня зовут Эльдар🙋‍♂️</h1>
-<h2 align="left">Я начинающий веб-разработчик</h2>
-<hr/> 
+<h1 align="left">Hi? I'm Eldar🙋‍♂️</h1>
+
 
 <h2>
     I am a beginner Front End developer👨🏻‍💻. My journey began in 2021, when I was 15 years old and went to school🏫. I enjoy with my job.
